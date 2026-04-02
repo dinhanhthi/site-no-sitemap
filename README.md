@@ -1,13 +1,11 @@
 # site-no-sitemap
 
-Simple static website (home + 4 child pages) without sitemap.
+Simple static website (home + 2 child pages) without sitemap.
 
 ## Pages
 
 - `/` (home)
 - `/about.html`
-- `/services.html`
-- `/blog.html`
 - `/contact.html`
 
 ## Deploy on Vercel
@@ -20,4 +18,4 @@ Simple static website (home + 4 child pages) without sitemap.
 ## Notes
 
 - There is no `sitemap.xml` in this project.
-- Home page contains links to all 4 child pages.
+- Home page contains links to all 2 child pages.
